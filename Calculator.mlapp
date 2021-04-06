@@ -1,4 +1,4 @@
-classdef Calcv2 < matlab.apps.AppBase
+classdef Calculator < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
